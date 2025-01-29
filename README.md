@@ -1,12 +1,18 @@
 # HDB Resale Price Analysis  
+
 ## Overview  
+
 Analyzed Singapore HDB resale prices to identify trends by town, flat type, and time.  
 
+## Business Questions
+
 ## Key Findings  
-- Highest average resale price: **BUKIT TIMAH** (SGD 753k).
-- Prices increased by **38% YoY** from 2017 to 2023.  
-- Most expensive flat type: **MULTI-GENERATION** (avg. SGD 842k).  
+
+- Highest average resale price: **BUKIT TIMAH** (SGD 883k).
+- Prices increased by **7% YoY** from JAN to DEC during 2024.  
+- Most expensive flat type: **MULTI-GENERATION** (avg. SGD 1049k).  
 
 ## Tools Used  
+
 - SQL (SQLite)  
 - Python (pandas)  
