@@ -6,6 +6,15 @@ Analyzed Singapore HDB resale prices to identify trends by town, flat type, and 
 
 ## Business Questions
 
+```
+Q1: Which town has the highest average resale price?
+Q2: How do resale prices trend over time?
+Q3: Which flat type (3-room, 4-room, etc.) is most expensive?
+Q4: Which towns have average resale prices higher than the national average?
+Q5: Find flats where the price is 20% higher than the average price in their town.
+Q6: Compare each month’s average price to the previous month using subqueries.
+```
+
 ### Q1: Which town has the highest average resale price?
 
 ![Screenshot 2025-01-29 at 10 01 13 AM](https://github.com/user-attachments/assets/46851d09-8a49-4c79-ad2b-73f0c394975b)
