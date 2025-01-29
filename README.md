@@ -21,6 +21,8 @@ Analyzed Singapore HDB resale prices to identify trends by town, flat type, and 
 ### Q4: Which towns have average resale prices higher than the national average?
 
 ![Screenshot 2025-01-29 at 10 02 54 AM](https://github.com/user-attachments/assets/9aef3685-df2f-4320-a8db-ea6f5c1b875a)
+![Screenshot 2025-01-29 at 10 34 09 AM](https://github.com/user-attachments/assets/bb56d53d-b372-4e24-a8e9-00fc659dca32)
+
 
 ### Q5: Find flats where the price is 20% higher than the average price in their town.
 
@@ -29,6 +31,8 @@ Analyzed Singapore HDB resale prices to identify trends by town, flat type, and 
 ### Q6: Compare each month’s average price to the previous month using subqueries.
 
 ![Screenshot 2025-01-29 at 10 03 40 AM](https://github.com/user-attachments/assets/e1296074-3149-453a-be56-1fa04738c0a7)
+![Screenshot 2025-01-29 at 10 34 26 AM](https://github.com/user-attachments/assets/b53c859c-1b14-4aff-ae61-a07a5e8114c7)
+
 
 ## Key Findings  
 
